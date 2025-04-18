@@ -37,7 +37,7 @@ A simple Python script that loads an image, applies a user-defined Gaussian blur
 Run the script from your terminal or command prompt:
 
 ```bash
-python gaussian_blur_demo.py <image_path> [--kernel KX KY] [--sigma SIGMA]
+python Practice2.py <image_path> [--kernel KX KY] [--sigma SIGMA]
 ```
 
 - `<image_path>`: Path to the input image (e.g. `test.jpg`, `/mnt/data/photo.jpg`).
